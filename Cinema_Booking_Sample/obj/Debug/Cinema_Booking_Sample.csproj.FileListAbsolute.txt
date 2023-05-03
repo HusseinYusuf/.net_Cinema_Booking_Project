@@ -1,0 +1,17 @@
+C:\Users\USER\source\repos\Cinema_Booking_Sample\Cinema_Booking_Sample\bin\Debug\Cinema_Booking_Sample.exe.config
+C:\Users\USER\source\repos\Cinema_Booking_Sample\Cinema_Booking_Sample\bin\Debug\Cinema_Booking_Sample.exe
+C:\Users\USER\source\repos\Cinema_Booking_Sample\Cinema_Booking_Sample\bin\Debug\Cinema_Booking_Sample.pdb
+C:\Users\USER\source\repos\Cinema_Booking_Sample\Cinema_Booking_Sample\obj\Debug\Cinema_Booking_Sample.Form2.resources
+C:\Users\USER\source\repos\Cinema_Booking_Sample\Cinema_Booking_Sample\obj\Debug\Cinema_Booking_Sample.Main.resources
+C:\Users\USER\source\repos\Cinema_Booking_Sample\Cinema_Booking_Sample\obj\Debug\Cinema_Booking_Sample.MovieSection.resources
+C:\Users\USER\source\repos\Cinema_Booking_Sample\Cinema_Booking_Sample\obj\Debug\Cinema_Booking_Sample.Properties.Resources.resources
+C:\Users\USER\source\repos\Cinema_Booking_Sample\Cinema_Booking_Sample\obj\Debug\Cinema_Booking_Sample.csproj.GenerateResource.cache
+C:\Users\USER\source\repos\Cinema_Booking_Sample\Cinema_Booking_Sample\obj\Debug\Cinema_Booking_Sample.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\Cinema_Booking_Sample\Cinema_Booking_Sample\obj\Debug\Cinema_Booking_Sample.exe
+C:\Users\USER\source\repos\Cinema_Booking_Sample\Cinema_Booking_Sample\obj\Debug\Cinema_Booking_Sample.pdb
+C:\Users\USER\source\repos\Cinema_Booking_Sample\Cinema_Booking_Sample\obj\Debug\Cinema_Booking_Sample.Seats.resources
+C:\Users\USER\source\repos\Cinema_Booking_Sample\Cinema_Booking_Sample\obj\Debug\Cinema_Booking_Sample.login.resources
+C:\Users\USER\source\repos\Cinema_Booking_Sample\Cinema_Booking_Sample\obj\Debug\Cinema_Booking_Sample.Reservation.resources
+C:\Users\USER\source\repos\Cinema_Booking_Sample\Cinema_Booking_Sample\obj\Debug\Cinema_Booking_Sample.Receipt.resources
+C:\Users\USER\source\repos\Cinema_Booking_Sample\Cinema_Booking_Sample\bin\Debug\Database4.accdb
+C:\Users\USER\source\repos\Cinema_Booking_Sample\Cinema_Booking_Sample\obj\Debug\Cinema_Booking_Sample.csproj.AssemblyReference.cache
